@@ -17,10 +17,9 @@
 ## 📁 Repository Structure
 
 text/
-/
 ├── detection/ # particle identification modules (e.g., LoG, thresholding)
 ├── linking/ # trajectory linking strategies (e.g., nearest neighbor, Kalman filter)
-├── refinement/ # cleaning, gap‑filling, stitching, interpolation
+├── refinement/ # cleaning, gap-filling, stitching, interpolation
 ├── analysis/ # compute MSD, dwell times, diffusion coefficients
 ├── visualization/ # plotting & rendering trajectories
 ├── data/ # optional test or example data
