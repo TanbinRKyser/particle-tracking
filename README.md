@@ -6,16 +6,10 @@
 
 ## 🚀 Features
 
-- Support for 2D/3D video/image datasets (e.g. TIFF, AVI, MP4).
+- Support for 2D/3D video/image datasets (e.g. TIFF, AVI, GIF).
 - Modular pipeline: detection → linking → refinement → analysis.
 - Visualization of tracked trajectories.
 - Statistical analysis: displacement, mean squared displacement (MSD), diffusion rates, dwell times, etc.
 - Extensible API for integrating custom detection or linking algorithms.
 
----
 
-## 📁 Repository Structure
-
-text/
-├── detection/ # particle identification modules (e.g., LoG, thresholding)
-├── linking/ # trajectory linking strategies (e.g., nearest neighbor, Kalman filter)
