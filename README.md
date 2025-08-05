@@ -16,7 +16,7 @@
 
 ## 📁 Repository Structure
 
-text
+text/
 /
 ├── detection/ # particle identification modules (e.g., LoG, thresholding)
 ├── linking/ # trajectory linking strategies (e.g., nearest neighbor, Kalman filter)
