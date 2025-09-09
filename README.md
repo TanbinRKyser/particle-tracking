@@ -6,10 +6,10 @@
 
 ## Features
 
-- Support for 2D/3D video/image datasets (e.g. TIFF, AVI, GIF).
-- Modular pipeline: detection → linking → refinement → analysis.
+- Support for sequential iamge datasets (e.g. TIFF, AVI, GIF).
+- Modular pipeline: detection → linking → tracking → analysis.
 - Visualization of tracked trajectories.
-- Statistical analysis: displacement, mean squared displacement (MSD), diffusion rates, dwell times, etc.
+- Statistical analysis: displacement, mean squared displacement (MSD) etc.
 - Extensible API for integrating custom detection or linking algorithms.
 
 
