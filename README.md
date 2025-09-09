@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - Support for 2D/3D video/image datasets (e.g. TIFF, AVI, GIF).
 - Modular pipeline: detection → linking → refinement → analysis.
